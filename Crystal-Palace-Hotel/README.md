@@ -1,1 +1,1 @@
-
+Crystal Palace Hotel is my first project in University its all about a hotel system that manage employee and customer to make things easy , we have used java for this project . NOTE: There is no data base , Dara structure in this project
