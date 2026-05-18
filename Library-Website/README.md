@@ -1,1 +1,1 @@
-
+One of the best projects that i worked on with my team , we have gone through 4 phases to finish this project ---------------> 1: Make the idea and the requirements 2: Use Figma to make the visualization and walkthrough the project 3: make the UML diagrames include Use Cases of them 4: Make the website using html , css , js and local storage .
