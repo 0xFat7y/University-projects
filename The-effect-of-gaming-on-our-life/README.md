@@ -1,1 +1,1 @@
-
+This is one of the most fun projects that i have done with my team that we use data about gaming and all its side effects on our life if you were a student or a worker , we use microsoft power bi to transform and clean data and make understandable visualizations to make things clear
