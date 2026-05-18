@@ -1,1 +1,1 @@
-
+This is a Data Science project . The task is to do Data Analysis steps on a high school students performance and grades data , we make the analysis by cleaning and other steps and there were some questions that we answer them by python codes. THERE ARE SOME ERRORS AND WRONG CODES but i will update it soon
